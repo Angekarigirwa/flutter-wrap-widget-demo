@@ -1,16 +1,29 @@
-# widget_presentation
+# Wrap Widget Demo – Flutter Skill Selector
 
-A new Flutter project.
+## About this project
 
-## Getting Started
+This is a simple Flutter app where users can select skills from a list. When you tap on a skill, it gets added to the selected list. If you tap it again, it gets removed.
 
-This project is a starting point for a Flutter application.
+The main purpose of this project is to demonstrate how the **Wrap widget** works in a real, interactive UI.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Real-world use case
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This type of interface can be used in real applications like:
+
+- Job application forms (choosing skills)
+- Profile setup screens
+- Survey or preference selection apps
+
+It helps users select multiple options in a clean and user-friendly way.
+
+---
+
+## How to run the project
+
+Make sure you are inside the project folder, then run:
+
+```bash
+flutter pub get
+flutter run
