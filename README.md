@@ -27,3 +27,15 @@ Make sure you are inside the project folder, then run:
 ```bash
 flutter pub get
 flutter run
+
+---
+
+## Screenshot
+
+![App Screenshot](assets/screenshot.png)
+
+---
+
+## Presentation note
+
+Date of in-class presentation: Tue 16, June 2026
